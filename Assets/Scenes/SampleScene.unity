@@ -6615,7 +6615,7 @@ MonoBehaviour:
   nome: Cozinha
   protagonista: {fileID: 371122419}
   pontoDeUso: {fileID: 220096466}
-  pontoDoCorredor: {fileID: 1834446350}
+  pontoDoCorredor: {fileID: 208659169}
   tempoDeUso: 2
   aoTerminar:
     m_PersistentCalls:
